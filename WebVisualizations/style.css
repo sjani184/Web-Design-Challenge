@@ -1,0 +1,61 @@
+/* Body */
+body{
+    background-color:rgb(204, 204, 204); 
+}
+/* Navbar */
+.navbar{
+    max-height: 57px; 
+}
+.navigation .navbar-brand{
+    color: white; 
+    margin-left: 30px; 
+    padding: inherit; 
+    font-weight: bold; 
+    background-color:rgb(17, 171, 182);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar {
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 25px;
+    background: rgb(255, 255, 255);
+  }
+  
+  .navbar li {
+    display: d-block;
+    padding: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+    cursor: pointer;
+  }
+/* Images */
+
+
+
+/* Title Class  */
+.title{
+    color: rgb(17, 171, 182);  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder; 
+    padding-top: 25px; 
+}
+/* Paragraph Element */
+p{
+ color: #6D8092;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 17px; 
+}
+/* Box Class */
+.box {
+    margin-top: 60px; 
+    margin-bottom: 62px; 
+    padding: 10px 20px 15px; 
+    color:black;
+    background-color: white; 
+
+  }
+/* Table */
+  .table{
+    font-size: 15px; 
+    border-top-color: white !important; 
+}
